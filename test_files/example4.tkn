@@ -1,0 +1,9 @@
+değişken birinciSayı = 10;
+
+eğer(birinciSayı > 5) {
+    değişken sonuç = birinciSayı * 2;
+    yazdır(sonuç);
+} aksi takdirde {
+    değişken sonuç = birinciSayı / 2;
+    yazdır(sonuç);
+}

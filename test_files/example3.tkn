@@ -1,0 +1,5 @@
+ikinciSayı = 9;
+iken(ikinciSayı > 0){
+    yazdır(ikinciSayı);
+    ikinciSayı = ikinciSayı - 1;
+}

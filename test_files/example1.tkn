@@ -1,0 +1,4 @@
+matematikİfade = 0;
+matematikİfade = matematikİfade + 2;
+matematikİfade = matematikİfade * 3;
+yazdır(matematikİfade);

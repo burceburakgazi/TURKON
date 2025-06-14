@@ -1,0 +1,5 @@
+üçüncüSayı = 0;
+iken(üçüncüSayı < 10){
+    yazdır(üçüncüSayı);
+    üçüncüSayı = üçüncüSayı + 1;
+}
